@@ -1,7 +1,7 @@
 # BiteSpeed USA – Sales & Customer Performance Dashboard
 
 ## 📌 Project Overview
-This Power BI dashboard was developed to support the strategic review of BiteSpeed USA's operations. 
+This Power BI dashboard was developed to support the strategic review of BiteSpeed USA's operations (fictional company for studying purposes only).
 
 ## 📊 Scope of Analysis
 
@@ -33,4 +33,7 @@ The report focuses on four main business areas:
   
 ## 🎯 Objective
  Analyze historical operational data and generate insights to assist in data-driven decision-making.
+
+ ## DashBoard BiteSpeed USA Preview 
+<img width="1193" height="671" alt="BiteSpeed-dashboard" src="https://github.com/user-attachments/assets/cd297ad9-e7dc-4983-b1d0-e93286a9b535" />
 
